@@ -1,1 +1,2 @@
-# crumble-paper-trash-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
